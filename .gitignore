@@ -1,0 +1,6 @@
+!data/.gitkeep
+data/*
+composer_modules/
+bower_modules/
+node_modules/
+*.swp
